@@ -1,0 +1,10 @@
+{
+    "archives": [
+        {"surname": "Jones", "records": 45, "locations": ["Cardiff", "Swansea"]},
+        {"surname": "Williams", "records": 32, "locations": ["Newport", "Bangor"]}
+    ],
+    "parish_records": [
+        {"name": "Thomas Evans", "county": "Glamorgan", "year": 1890},
+        {"name": "Margaret Davies", "county": "Monmouthshire", "year": 1885}
+    ]
+}

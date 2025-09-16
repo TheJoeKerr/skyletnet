@@ -1,0 +1,1 @@
+Add detection for processes listening on known malicious ports (4444, 31337, 1337, 6667) and alert if found
